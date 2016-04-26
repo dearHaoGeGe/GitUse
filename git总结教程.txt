@@ -1,0 +1,10 @@
+1、打开Git，cd 进入你的文件夹。
+2、输入git init		回车
+3、git remote add origin 你项目的git地址	回车
+4、git add .	添加到暂存区
+5、git commit -m "信息"		加上信息		回车
+6、git status		查看是否添加上去
+7、:wq		(可能会有，也可能没有)
+8、git pull origin master		从git上面拉代码
+9、git push origin master		往git上面推代码
+10、git clone 你项目的git地址	(从git上面克隆代码到本地，最好是 cd 桌面)
