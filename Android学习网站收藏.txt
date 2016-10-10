@@ -594,3 +594,6 @@ http://www.androiddevtools.cn/
 
 TextView的一些属性
 http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652261834&idx=1&sn=a8ddd6f20f989d04add7ddc35868dd82&scene=0#wechat_redirect
+
+Android学习资料的网站
+http://www.android-study.com/
