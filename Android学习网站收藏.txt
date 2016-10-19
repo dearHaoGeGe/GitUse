@@ -597,3 +597,6 @@ http://mp.weixin.qq.com/s?__biz=MzA3MDMyMjkzNg==&mid=2652261834&idx=1&sn=a8ddd6f
 
 Android学习资料的网站
 http://www.android-study.com/
+
+//继承AppCompatActivity(V7包下的Activity)之后要用这个方法去掉title
+supportRequestWindowFeature(Window.FEATURE_NO_TITLE);
