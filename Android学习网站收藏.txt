@@ -441,7 +441,7 @@ http://www.bkjia.com/Androidjc/995847.html
 http://blog.csdn.net/liang5630/article/details/46366901/
 
 jdk环境配置
-http://www.cnblogs.com/zhj5chengfeng/archive/2013/01/01/2841253.html
+http://jingyan.baidu.com/article/dca1fa6faf9001f1a4405296.html
 
 Android高效加载大图、多图解决方案，有效避免程序OOM
 http://blog.csdn.net/guolin_blog/article/details/9316683
