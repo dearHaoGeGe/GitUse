@@ -606,3 +606,6 @@ http://unclechen.github.io/2016/09/07/Android%E5%8F%8D%E7%BC%96%E8%AF%91%E6%8A%8
 
 //README.md在线编译器
 http://mahua.jser.me/
+
+Genymotion 模拟器的sd卡的位置
+http://www.bubuko.com/infodetail-938964.html
