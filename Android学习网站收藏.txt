@@ -615,3 +615,6 @@ http://blog.csdn.net/qq379454816/article/details/50162581
 
 //相对布局下底部按钮遮住ListView底部解决方法
 http://www.cnblogs.com/dj168/p/4094251.html
+
+//LinearListView继承与LinearLayout
+https://github.com/frankiesardo/LinearListView
