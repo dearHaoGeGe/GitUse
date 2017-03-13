@@ -612,3 +612,6 @@ http://www.bubuko.com/infodetail-938964.html
 
 //Android手势使用之 GestureDetector（Google封装好了一个手势处理类：GestureDetector，方便的处理单击、双击等各种手势，与手势）
 http://blog.csdn.net/qq379454816/article/details/50162581
+
+//相对布局下底部按钮遮住ListView底部解决方法
+http://www.cnblogs.com/dj168/p/4094251.html
