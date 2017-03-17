@@ -618,3 +618,6 @@ http://www.cnblogs.com/dj168/p/4094251.html
 
 //LinearListView继承与LinearLayout
 https://github.com/frankiesardo/LinearListView
+
+//Java中ArrayList和LinkedList区别
+http://pengcqu.iteye.com/blog/502676
