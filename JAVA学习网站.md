@@ -13,3 +13,5 @@
 [java web学习路线](https://my.oschina.net/kun123/blog/917003)
 
 [RabbitMQ中文教程](http://www.cnblogs.com/LipeiNet/p/5973061.html)
+
+[微信JS-SDK接口Demo](http://qydev.weixin.qq.com/wiki/index.php?title=%E5%BE%AE%E4%BF%A1JS-SDK%E6%8E%A5%E5%8F%A3)
