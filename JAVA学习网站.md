@@ -11,3 +11,5 @@
 [详解SQL Server连接（内连接、外连接、交叉连接）](http://blog.csdn.net/jiuqiyuliang/article/details/10474221)
 
 [java web学习路线](https://my.oschina.net/kun123/blog/917003)
+
+[RabbitMQ中文教程](http://www.cnblogs.com/LipeiNet/p/5973061.html)
