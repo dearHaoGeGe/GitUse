@@ -17,3 +17,8 @@
 [微信JS-SDK接口Demo](http://qydev.weixin.qq.com/wiki/index.php?title=%E5%BE%AE%E4%BF%A1JS-SDK%E6%8E%A5%E5%8F%A3)
 
 [Linux系统中安装JDK教程](https://www.cnblogs.com/h--d/p/5071643.html)
+
+Linux系统中安装Mysql教程
+[1](http://www.jb51.net/article/91754.htm)
+[2](http://blog.csdn.net/coroutines/article/details/7715621)
+[3](http://www.jb51.net/article/108752.htm)
