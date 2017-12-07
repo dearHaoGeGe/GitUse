@@ -26,3 +26,5 @@ Linux系统中安装Mysql教程
 [5](http://blog.csdn.net/songmao3145/article/details/77676402)
 [6](https://www.cnblogs.com/java-wgm/p/6264767.html)
 [7](http://blog.csdn.net/my2010sam/article/details/18664443)
+
+[Linux系统中安装Maven教程](http://blog.csdn.net/jay_1989/article/details/52710189)
