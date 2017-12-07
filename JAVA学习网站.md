@@ -22,3 +22,7 @@ Linux系统中安装Mysql教程
 [1](http://www.jb51.net/article/91754.htm)
 [2](http://blog.csdn.net/coroutines/article/details/7715621)
 [3](http://www.jb51.net/article/108752.htm)
+[4](http://blog.sina.com.cn/s/blog_694864e60102vaij.html)
+[5](http://blog.csdn.net/songmao3145/article/details/77676402)
+[6](https://www.cnblogs.com/java-wgm/p/6264767.html)
+[7](http://blog.csdn.net/my2010sam/article/details/18664443)
