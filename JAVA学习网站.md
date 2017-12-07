@@ -28,3 +28,5 @@ Linux系统中安装Mysql教程
 [7](http://blog.csdn.net/my2010sam/article/details/18664443)
 
 [Linux系统中安装Maven教程](http://blog.csdn.net/jay_1989/article/details/52710189)
+
+[使用 Intelli JIDEA 和 Maven 创建 Java Web 项目](http://blog.csdn.net/myarrow/article/details/50824793)
