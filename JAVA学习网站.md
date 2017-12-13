@@ -33,4 +33,6 @@ Linux系统中安装Mysql教程
 
 [RabbitMQ与Spring集成](http://blog.csdn.net/JaCman/article/details/50261915)
 
+[RabbitMQ入门教程](http://blog.csdn.net/column/details/18247.html)
+
 [RabbitMQ学习教程](http://blog.csdn.net/column/details/slimina-rabbitmq.html)
