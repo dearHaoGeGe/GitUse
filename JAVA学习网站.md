@@ -32,3 +32,5 @@ Linux系统中安装Mysql教程
 [使用 Intelli JIDEA 和 Maven 创建 Java Web 项目](http://blog.csdn.net/myarrow/article/details/50824793)
 
 [RabbitMQ与Spring集成](http://blog.csdn.net/JaCman/article/details/50261915)
+
+[RabbitMQ学习教程](http://blog.csdn.net/column/details/slimina-rabbitmq.html)
