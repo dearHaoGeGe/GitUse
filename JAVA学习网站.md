@@ -36,3 +36,5 @@ Linux系统中安装Mysql教程
 [RabbitMQ入门教程](http://blog.csdn.net/column/details/18247.html)
 
 [RabbitMQ学习教程](http://blog.csdn.net/column/details/slimina-rabbitmq.html)
+
+[base64字符串与图片的相互转换](http://blog.csdn.net/qq20004604/article/details/72824147)
