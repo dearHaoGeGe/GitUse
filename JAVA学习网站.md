@@ -38,3 +38,5 @@ Linux系统中安装Mysql教程
 [RabbitMQ学习教程](http://blog.csdn.net/column/details/slimina-rabbitmq.html)
 
 [base64字符串与图片的相互转换](http://blog.csdn.net/qq20004604/article/details/72824147)
+
+[解决跨域请求 No 'Access-Control-Allow-Origin'](http://www.jsjtt.com/java/JavaWebkaifa/130.html)
