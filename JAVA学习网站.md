@@ -40,3 +40,5 @@ Linux系统中安装Mysql教程
 [base64字符串与图片的相互转换](http://blog.csdn.net/qq20004604/article/details/72824147)
 
 [解决跨域请求 No 'Access-Control-Allow-Origin'](http://www.jsjtt.com/java/JavaWebkaifa/130.html)
+
+[ Intellij 解除（去除）SVN关联](blog.csdn.net/wo541075754/article/details/49659597)
