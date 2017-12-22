@@ -44,12 +44,12 @@ Linux系统中安装Mysql教程
 [Intellij 解除（去除）SVN关联](blog.csdn.net/wo541075754/article/details/49659597)
 
 一些HTML+CSS样式的网站
-[Dribbble](https://dribbble.com/)
-[jQuery之家](http://www.htmleaf.com/)
-[jQuery插件库](http://www.jq22.com/)
-[jQuerySchool](http://www.jq-school.com/)
-[懒人之家](http://www.lanrenzhijia.com/)
-[jQuery特效](http://www.huiyi8.com/jiaoben/)
-[jQuery样式](https://www.w3cplus.com/)
-[jQueryfuns](http://www.jqueryfuns.com/)
+[Dribbble](https://dribbble.com/)，
+[jQuery之家](http://www.htmleaf.com/)，
+[jQuery插件库](http://www.jq22.com/)，
+[jQuerySchool](http://www.jq-school.com/)，
+[懒人之家](http://www.lanrenzhijia.com/)，
+[jQuery特效](http://www.huiyi8.com/jiaoben/)，
+[jQuery样式](https://www.w3cplus.com/)，
+[jQueryfuns](http://www.jqueryfuns.com/)，
 [codepen](https://codepen.io/)
