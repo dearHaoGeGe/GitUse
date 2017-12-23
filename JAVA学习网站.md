@@ -53,3 +53,5 @@ Linux系统中安装Mysql教程
 [jQuery样式](https://www.w3cplus.com/)，
 [jQueryfuns](http://www.jqueryfuns.com/)，
 [codepen](https://codepen.io/)
+
+[Fastdfs客户端连接超时解决方案](http://blog.csdn.net/tjcyjd/article/details/50808740)
