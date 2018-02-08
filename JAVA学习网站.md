@@ -59,3 +59,5 @@ Linux系统中安装Mysql教程
 [网易开源镜像站](http://mirrors.163.com/)
 
 [V2EX](https://www.v2ex.com/)
+
+[mysql历史版本下载](https://downloads.mysql.com/archives/community/)
