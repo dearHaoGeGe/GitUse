@@ -61,3 +61,5 @@ Linux系统中安装Mysql教程
 [V2EX](https://www.v2ex.com/)
 
 [mysql历史版本下载](https://downloads.mysql.com/archives/community/)
+
+[mysql导入导出sql文件](https://www.cnblogs.com/jwlfpzj/articles/7998395.html)
