@@ -63,3 +63,5 @@ Linux系统中安装Mysql教程
 [mysql历史版本下载](https://downloads.mysql.com/archives/community/)
 
 [mysql导入导出sql文件](https://www.cnblogs.com/jwlfpzj/articles/7998395.html)
+
+[远程连接mysql](http://blog.csdn.net/a19881029/article/details/50805562)
