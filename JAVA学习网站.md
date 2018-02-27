@@ -65,3 +65,5 @@ Linux系统中安装Mysql教程
 [mysql导入导出sql文件](https://www.cnblogs.com/jwlfpzj/articles/7998395.html)
 
 [远程连接mysql](http://blog.csdn.net/a19881029/article/details/50805562)
+
+[Maven 项目指定JDK版本](http://blog.csdn.net/maxwoods/article/details/52846930)
