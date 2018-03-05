@@ -67,3 +67,5 @@ Linux系统中安装Mysql教程
 [远程连接mysql](http://blog.csdn.net/a19881029/article/details/50805562)
 
 [Maven 项目指定JDK版本](http://blog.csdn.net/maxwoods/article/details/52846930)
+
+[mysql max_allowed_packet自动重置为1024 终结解决](https://www.cnblogs.com/qdpurple/p/5742059.html)
