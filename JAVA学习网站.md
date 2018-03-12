@@ -69,3 +69,5 @@ Linux系统中安装Mysql教程
 [Maven 项目指定JDK版本](http://blog.csdn.net/maxwoods/article/details/52846930)
 
 [mysql max_allowed_packet自动重置为1024 终结解决](https://www.cnblogs.com/qdpurple/p/5742059.html)
+
+[Microsoft Office](http://t.cn/R2enkTR)
