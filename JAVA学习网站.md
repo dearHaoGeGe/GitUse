@@ -18,7 +18,7 @@
 
 [Linux系统中安装JDK教程](https://www.cnblogs.com/h--d/p/5071643.html)
 
-Linux系统中安装Mysql教程(https://www.cnblogs.com/lunatic-cto/p/6123490.html)
+[Linux系统中安装Mysql教程](https://www.cnblogs.com/lunatic-cto/p/6123490.html)
 [1](http://www.jb51.net/article/91754.htm)
 [2](http://blog.csdn.net/coroutines/article/details/7715621)
 [3](http://www.jb51.net/article/108752.htm)
