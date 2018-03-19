@@ -73,3 +73,5 @@
 [mysql max_allowed_packet自动重置为1024 终结解决](https://www.cnblogs.com/qdpurple/p/5742059.html)
 
 [Microsoft Office](http://t.cn/R2enkTR)
+
+Spring定时任务 [1](https://www.cnblogs.com/tenWood/p/8025183.html) [2](http://blog.csdn.net/qq_33556185/article/details/51852537) [3](http://blog.csdn.net/qq_26525215/article/details/66974880)
