@@ -81,3 +81,5 @@ Spring定时任务 [1](https://www.cnblogs.com/tenWood/p/8025183.html) [2](http:
 [mybatis常用jdbcType数据类型](https://www.cnblogs.com/henuyuxiang/p/6233377.html)
 
 [PDF转Word](http://app.xunjiepdf.com/pdf2word)
+
+[shiro权限验证标签的使用](https://www.cnblogs.com/jifeng/p/4500410.html)
