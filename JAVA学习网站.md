@@ -85,3 +85,5 @@ Spring定时任务 [1](https://www.cnblogs.com/tenWood/p/8025183.html) [2](http:
 [shiro权限验证标签的使用](https://www.cnblogs.com/jifeng/p/4500410.html)
 
 [jeesite技术分享](http://www.jeevip.com)
+
+[封装jQuery Validate扩展验证方法](https://www.cnblogs.com/linjiqin/p/3433635.html)
