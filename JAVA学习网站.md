@@ -56,8 +56,6 @@
 [jQueryfuns](http://www.jqueryfuns.com/)，
 [codepen](https://codepen.io/)
 
-[Fastdfs客户端连接超时解决方案](http://blog.csdn.net/tjcyjd/article/details/50808740)
-
 [网易开源镜像站](http://mirrors.163.com/)
 
 [V2EX](https://www.v2ex.com/)
@@ -87,3 +85,7 @@ Spring定时任务 [1](https://www.cnblogs.com/tenWood/p/8025183.html) [2](http:
 [jeesite技术分享](http://www.jeevip.com)
 
 [封装jQuery Validate扩展验证方法](https://www.cnblogs.com/linjiqin/p/3433635.html)
+
+[Fastdfs客户端连接超时解决方案](http://blog.csdn.net/tjcyjd/article/details/50808740)
+
+Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626)，[2](https://www.cnblogs.com/huangye-dream/p/3777004.html)，[3](https://blog.csdn.net/pucao_cug/article/details/71758883)
