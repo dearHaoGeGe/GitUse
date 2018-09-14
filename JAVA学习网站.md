@@ -91,3 +91,5 @@ Spring定时任务 [1](https://www.cnblogs.com/tenWood/p/8025183.html) [2](http:
 Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626)，[2](https://www.cnblogs.com/huangye-dream/p/3777004.html)，[3](https://blog.csdn.net/pucao_cug/article/details/71758883)
 
 [java1234](http://www.java1234.com/)
+
+[Navicat将远程MySql数据库数据导入本地数据库](https://blog.csdn.net/xyaydddf/article/details/53490362)
