@@ -97,3 +97,5 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 [IT教程吧](https://www.itjc8.com/)
 
 [给大家推荐8个SpringBoot精选项目](https://blog.52itstyle.com/archives/3344/)
+
+[FreeMarker 中文官方参考手册](http://freemarker.foofun.cn/toc.html)
