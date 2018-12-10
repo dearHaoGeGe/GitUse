@@ -95,3 +95,5 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 [Navicat将远程MySql数据库数据导入本地数据库](https://blog.csdn.net/xyaydddf/article/details/53490362)
 
 [IT教程吧](https://www.itjc8.com/)
+
+[给大家推荐8个SpringBoot精选项目](https://blog.52itstyle.com/archives/3344/)
