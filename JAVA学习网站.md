@@ -105,3 +105,5 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 [芋道源码 —— 纯源码解析博客](http://www.iocoder.cn/)
 
 [秘迹搜索](https://mijisou.com/)
+
+[一些面试题](https://www.cnblogs.com/marsitman/p/9539369.html)
