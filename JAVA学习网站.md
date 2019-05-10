@@ -107,3 +107,5 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 [秘迹搜索](https://mijisou.com/)
 
 [一些面试题](https://www.cnblogs.com/marsitman/p/9539369.html)
+
+[Java多线程编程之连续打印abc的几种解法](https://www.cnblogs.com/xiaoxi/p/8035725.html)
