@@ -109,3 +109,6 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 [一些面试题](https://www.cnblogs.com/marsitman/p/9539369.html)
 
 [Java多线程编程之连续打印abc的几种解法](https://www.cnblogs.com/xiaoxi/p/8035725.html)
+
+[MySQL某字段值是以逗号隔开存放多个id的实现多表联查](https://blog.csdn.net/qq_39176834/article/details/83830039)
+[MYSQL把查询多个的结果放在一个列里，用逗号隔开](https://blog.csdn.net/tian_tian_gong/article/details/84335486)
