@@ -112,3 +112,5 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 
 [MySQL某字段值是以逗号隔开存放多个id的实现多表联查](https://blog.csdn.net/qq_39176834/article/details/83830039)
 [MYSQL把查询多个的结果放在一个列里，用逗号隔开](https://blog.csdn.net/tian_tian_gong/article/details/84335486)
+
+[IDEA实现SVN创建分支和合并分支](https://blog.csdn.net/bigcharsen/article/details/82230249)
