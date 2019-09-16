@@ -114,3 +114,5 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 [MYSQL把查询多个的结果放在一个列里，用逗号隔开](https://blog.csdn.net/tian_tian_gong/article/details/84335486)
 
 [IDEA实现SVN创建分支和合并分支](https://blog.csdn.net/bigcharsen/article/details/82230249)
+
+[NodeJS zip版本安装和配置](https://www.jianshu.com/p/b0f97e20283f)
