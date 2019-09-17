@@ -2,13 +2,7 @@
 
 [MaHua 在线markdown编辑器](http://mahua.jser.me/)
 
-[SpringMVC+Mybatis视频](http://www.icoolxue.com/album/show/216/)
-
-[易百教程(java的一些框架教程)](http://www.yiibai.com/mybatis/mybatis_choose.html)
-
 [详解SQL Server连接（内连接、外连接、交叉连接）](http://blog.csdn.net/jiuqiyuliang/article/details/10474221)
-
-[java web学习路线](https://my.oschina.net/kun123/blog/917003)
 
 [RabbitMQ中文教程](http://www.cnblogs.com/LipeiNet/p/5973061.html)
 
@@ -115,4 +109,4 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 
 [IDEA实现SVN创建分支和合并分支](https://blog.csdn.net/bigcharsen/article/details/82230249)
 
-[NodeJS zip版本安装和配置](https://www.jianshu.com/p/b0f97e20283f)
+[NodeJS zip版本安装和配置](https://www.jianshu.com/p/b0f97e20283f) [VUE项目在IDEA中运行](https://blog.csdn.net/Nancy50/article/details/84998636)
