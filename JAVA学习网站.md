@@ -110,3 +110,5 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 [IDEA实现SVN创建分支和合并分支](https://blog.csdn.net/bigcharsen/article/details/82230249)
 
 [NodeJS zip版本安装和配置](https://www.jianshu.com/p/b0f97e20283f) [VUE项目在IDEA中运行](https://blog.csdn.net/Nancy50/article/details/84998636)
+
+[数据结构学习模型网站](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
