@@ -74,8 +74,6 @@ Spring定时任务 [1](https://www.cnblogs.com/tenWood/p/8025183.html) [2](http:
 
 [shiro权限验证标签的使用](https://www.cnblogs.com/jifeng/p/4500410.html)
 
-[jeesite技术分享](http://www.jeevip.com)
-
 [封装jQuery Validate扩展验证方法](https://www.cnblogs.com/linjiqin/p/3433635.html)
 
 [Fastdfs客户端连接超时解决方案](http://blog.csdn.net/tjcyjd/article/details/50808740)
@@ -89,6 +87,8 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 [IT教程吧](https://www.itjc8.com/)
 
 [给大家推荐8个SpringBoot精选项目](https://blog.52itstyle.com/archives/3344/)
+
+[JSON 视图](https://www.bejson.com/jsonviewernew/)
 
 [FreeMarker 中文官方参考手册](http://freemarker.foofun.cn/toc.html)
 
