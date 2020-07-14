@@ -84,7 +84,7 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 
 [Navicat将远程MySql数据库数据导入本地数据库](https://blog.csdn.net/xyaydddf/article/details/53490362)
 
-[IT教程吧](https://www.itjc8.com/)
+[简历相关](https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&mid=2247487735&idx=2&sn=2d6152ec98108797ffc749ad069ce474&chksm=ebd62fdbdca1a6cdf8ffa4730c8a17b6f75e400d8a957075723cf489f5cb3ca2dc3af776790b&mpshare=1&scene=24&srcid=0714roRSd4a82CWdukuniRuU&sharer_sharetime=1594693412157&sharer_shareid=462d2a5cf3b86051bf42aa5dd3a3d0df#rd), [在线生成模板简历](http://cvbox.sinaapp.com)
 
 [给大家推荐8个SpringBoot精选项目](https://blog.52itstyle.com/archives/3344/)
 
