@@ -66,6 +66,8 @@
 
 Spring定时任务 [1](https://www.cnblogs.com/tenWood/p/8025183.html) [2](http://blog.csdn.net/qq_33556185/article/details/51852537) [3](http://blog.csdn.net/qq_26525215/article/details/66974880) [Spring设置定时任务时，关于执行时间的规则设置](https://blog.csdn.net/aspnet2002web/article/details/52810569)
 
+[Cron表达式校验工具](https://www.bejson.com/othertools/cronvalidate/)
+
 [div 等块级标签横向排列的方法总结](http://blog.csdn.net/zmhawk/article/details/73293366)
 
 [mybatis常用jdbcType数据类型](https://www.cnblogs.com/henuyuxiang/p/6233377.html)
