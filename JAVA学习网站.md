@@ -90,7 +90,7 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 
 [给大家推荐8个SpringBoot精选项目](https://blog.52itstyle.com/archives/3344/)
 
-[JSON 视图](https://www.bejson.com/jsonviewernew/)
+[JSON 视图1](https://www.bejson.com/jsonviewernew/)，[JSON 视图2](http://www.ab173.com/json/jsonviewernew.php)
 
 [FreeMarker 中文官方参考手册](http://freemarker.foofun.cn/toc.html)
 
