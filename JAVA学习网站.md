@@ -118,3 +118,5 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 [apkpure Android APK 市场](https://apkpure.com/cn)
 
 [idea免费版(抢先版)](https://www.jetbrains.com/resources/eap/)
+
+[下载歌曲网站](https://www.hifini.com/)
