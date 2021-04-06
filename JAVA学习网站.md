@@ -120,3 +120,5 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 [下载歌曲网站](https://www.hifini.com/)
 
 [SQL on and 和 on where 的区别](https://www.cnblogs.com/Uzai/p/11260361.html)
+
+[ffmpeg 常用命令](https://www.hack520.com/668.html)
