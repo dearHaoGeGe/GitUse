@@ -124,3 +124,5 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 [ffmpeg 常用命令](https://www.hack520.com/668.html)
 
 [虫部落搜索聚合](https://search.chongbuluo.com/)
+
+[idea撤销本地库提交](https://www.cnblogs.com/huqi96/p/14214539.html)
