@@ -126,3 +126,5 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 [虫部落搜索聚合](https://search.chongbuluo.com/)
 
 [idea撤销本地库提交](https://www.cnblogs.com/huqi96/p/14214539.html)
+
+[Redisson实现分布式锁](https://www.cnblogs.com/qdhxhz/p/11046905.html)
