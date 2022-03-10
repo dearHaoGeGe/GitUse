@@ -130,3 +130,5 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 [Redisson实现分布式锁](https://www.cnblogs.com/qdhxhz/p/11046905.html)
 
 [CNValues](https://cnvalues.github.io/index.html)
+
+[Maven Repository](https://mvnrepository.com/)
