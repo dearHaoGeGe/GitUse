@@ -132,3 +132,5 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 [CNValues](https://cnvalues.github.io/index.html)
 
 [Maven Repository](https://mvnrepository.com/)
+
+[Window Nginx常用的命令](https://www.cnblogs.com/HHbJ/p/13611885.html)
