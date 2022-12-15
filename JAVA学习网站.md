@@ -113,7 +113,7 @@ Fastdfs安装教程[1](https://blog.csdn.net/a609733301/article/details/66975626
 
 [数据结构学习模型网站](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)，[设计模式学习网站](https://refactoring.guru/)
 
-[apkcombo Android APK 市场](https://apkcombo.com/zh-cn/),[apkpure Android APK 市场](https://apkpure.com/cn),[广东FTQ](https://github.com/getfotiaoqiang/download)
+[apkcombo Android APK 市场](https://apkcombo.com/zh-cn/),[apkpure Android APK 市场](https://apkpure.com/cn),[广东FTQ](https://github.com/getfotiaoqiang/download),[baacloud](https://www.ebay.com/usr/tlyvpn)
 
 [idea免费版(抢先版)](https://www.jetbrains.com/resources/eap/)，[idea婆姐](http://idea.studycoder.com/)，[idea30天试用](https://www.jianshu.com/p/578eba845edd)
 
